@@ -19,6 +19,16 @@
       "name": "SmartWatch",
       "price": "2056.69",
       "id": 4
+    },
+    {
+      "name": "Product 1",
+      "price": 125.98,
+      "id": 5
+    },
+    {
+      "name": "Product 1",
+      "price": 125.98,
+      "id": 6
     }
   ]
 }
